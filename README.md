@@ -45,22 +45,26 @@ Me caracterizo por mi capacidad de adaptación, pensamiento crítico y resoluci�
 
 **GOGYM**  
 _Plataforma de Gestión de Gimnasio_  
-**Stack:** Angular 13 · Node.js · MongoDB · Git  
+**Stack:** React · Node.js · MongoDB · Git  
 Desarrollo de una aplicación responsive para la administración de socios, pagos, reservas y entrenamientos.
 
 **Barrioneta**  
 _Red social para vecinos_  
 **Stack:** HTML · CSS · JavaScript · Bootstrap  
 Aplicación web para comunicación barrial con login, publicaciones y usuarios activos en tiempo real.
+
 ---
 
+---
 ### 📫 Conectemos
 
 - 💼[LinkedIn](https://www.linkedin.com/in/katherinelujangomez/)
 - 🌐[Portfolio](https://portfoliokatherinegomez.netlify.app/)
 - ✉️ katherinelujangomez@gmail.com
+  
+---
 
-
+---
 ### 📊 GitHub Stats
 
 <p align="center">
