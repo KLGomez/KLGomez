@@ -5,9 +5,8 @@
 
 ### ✨ Sobre mí
 
-Desarrolladora de software analítica, detallista y orientada a resultados. Me formé en tecnologías web modernas tanto del lado del frontend como del backend, y cuento con experiencia práctica en control de calidad (QA), testing manual y automatizado.
-
-Me caracterizo por mi capacidad de adaptación, pensamiento crítico y resolución de problemas. Actualmente me encuentro en búsqueda activa de oportunidades laborales en tecnología, donde pueda seguir aportando valor y creciendo profesionalmente.
+Desarrolladora de Software analítica y detallista, con capacidad de adaptación y resolución de problemas.
+Busco nuevos desafíos para seguir creciendo en el área, aportando pensamiento crítico y aprendizaje continuo.
 
 
 > *"En construcción… como todo buen software."*
@@ -55,7 +54,6 @@ Aplicación web para comunicación barrial con login, publicaciones y usuarios a
 
 ---
 
----
 ### 📫 Conectemos
 
 - 💼[LinkedIn](https://www.linkedin.com/in/katherinelujangomez/)
@@ -64,7 +62,6 @@ Aplicación web para comunicación barrial con login, publicaciones y usuarios a
   
 ---
 
----
 ### 📊 GitHub Stats
 
 <p align="center">
