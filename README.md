@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola mundo! 🌍 Soy Katherine Gómez</h1>
-<h3 align="center">💻 Full Stack Developer en transición hacia Data Engineering</h3>
+<h3 align="center">💻 Full Stack Developer </h3>
 
 ---
 
