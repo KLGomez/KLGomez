@@ -51,6 +51,11 @@ Me interesa construir soluciones sólidas, escalables y centradas en el dato, co
 
 ### 🧩 Proyectos destacados
 
+**📌 Monevo**  
+_App estilo retro para la gestion de finanzas personales_  
+**Stack:** Next.js · Nest.js · MongoDB · API Gemini AI · Git  
+Desarrollo fullstack de una app responsive para registrar gastos, obtener reconpensas y recibir consejos financieros personalizados mediante IA.
+
 **📌 GoGym**  
 _Plataforma de gestión para gimnasios_  
 **Stack:** React · Node.js · MongoDB · Git  
