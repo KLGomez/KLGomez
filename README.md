@@ -69,14 +69,6 @@ Aplicación web para comunicación barrial en tiempo real. Incluye login, sistem
 - 🌐 [Portfolio](https://portfoliokatherinegomez.netlify.app/)
 - ✉️ katherinelujangomez@gmail.com
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KLGomez&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLGomez&layout=compact&theme=radical" width="400"/>
-</p>
 
 ---
 
