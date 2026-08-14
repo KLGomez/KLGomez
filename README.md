@@ -98,14 +98,10 @@ Plataforma fullstack de gestión de gimnasios: socios, pagos y reservas, con UI 
 
 ---
 
-### 📈 Estadísticas
-
 <div align="center">
-  <a href="https://github.com/KLGomez">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KLGomez&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/KLGomez">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLGomez&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <h3>Tecnologías y Herramientas</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,azure,mysql&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
