@@ -65,7 +65,7 @@ Desarrolladora Full Stack en transición activa hacia **Data Science / Data Engi
 **📊 BA Events Concierge Agent**
 Agente de IA en Node.js que usa function calling de Gemini con 4 herramientas encadenadas (búsqueda de eventos, clima, favoritos, invitaciones de calendario).
 `Node.js` `Gemini API` `Function Calling`
-[Repo →](https://github.com/KLGomez/ba-agent-concierge)
+[Repo →](https://github.com/KLGomez/BA-Events-Agent)
 
 </td>
 <td width="50%" valign="top">
@@ -83,13 +83,14 @@ PWA en React/Vite para eventos culturales de Buenos Aires, con pipeline ETL prop
 **💰 Monevo**
 App de finanzas personales estilo retro, con recompensas por hábitos y consejos financieros generados con IA.
 `Next.js` `Nest.js` `MongoDB` `Gemini API`
-
+[Demo →](https://moneyevolution.vercel.app/login)
 </td>
 <td width="50%" valign="top">
 
 **🏋️ GoGym**
 Plataforma fullstack de gestión de gimnasios: socios, pagos y reservas, con UI intuitiva y backend robusto.
 `React` `Node.js` `MongoDB`
+[Demo →](https://somosgogym.netlify.app/)
 
 </td>
 </tr>
@@ -100,10 +101,12 @@ Plataforma fullstack de gestión de gimnasios: socios, pagos y reservas, con UI 
 ### 📈 Estadísticas
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KLGomez&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KLGomez&layout=compact&theme=tokyonight&hide_border=true)
-
+  <a href="https://github.com/KLGomez">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KLGomez&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/KLGomez">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLGomez&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -112,6 +115,6 @@ Plataforma fullstack de gestión de gimnasios: socios, pagos y reservas, con UI 
 
 *"En constante construcción... como todo buen software."*
 
-📫 **¿Charlamos?** [LinkedIn](https://www.linkedin.com/in/katherinelujangomez/) · [Portfolio](https://portfoliokatherinegomez.netlify.app/) · katherinelujangomez@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/katherinelujangomez/) · katherinelujangomez@gmail.com
 
 </div>
